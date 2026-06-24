@@ -1,101 +1,230 @@
-# Nome do Projeto
+# PROJETO FINAL DE UX DESIGN
 
-## Sobre o Projeto
+## Melhorando o Acesso às Informações da Cantina do Centro de Convivência da SATC
 
-## Objetivo
+### 1. Introdução ao Tema
 
-## 1. Exploração do Tema
+O Centro de Convivência (CC) da SATC é um espaço amplamente utilizado por estudantes, professores e colaboradores durante os intervalos e horários livres. Entre os serviços oferecidos no local, destaca-se a cantina, responsável pelo fornecimento de alimentos e bebidas para a comunidade acadêmica.
 
-### Pesquisa Realizada:
+Atualmente, a cantina não possui uma forma digital de disponibilizar informações sobre seus produtos. Dessa forma, os usuários precisam se deslocar até o local para verificar preços, opções disponíveis e a existência de determinados itens no dia.
 
-Após realizar observações no campus da SATC e conversar com alguns alunos sobre suas experiências com a cantina, foi identificado que muitos não decidem o que irão consumir antes de chegar ao local. Por isso, costumam se dirigir até a frente da cantina apenas para visualizar as opções disponíveis e verificar os preços dos produtos.
+Considerando a importância da praticidade e do acesso rápido à informação, este projeto busca compreender as dificuldades enfrentadas pelos usuários da cantina e identificar oportunidades de melhoria para a experiência oferecida.
 
-Esse comportamento acaba contribuindo para o aumento da movimentação e das filas, especialmente nos horários de intervalo, já que parte dos alunos permanece no local apenas para decidir o que consumir ou verificar se determinado produto está disponível.
+---
 
-### Fontes Consultadas:
+# 2. Pesquisa Exploratória
 
-Consultamos a equipe da própria cantina, que informou não possuir um cardápio digital ou qualquer sistema que apresente de forma clara os alimentos e bebidas disponíveis. Além disso, foram realizadas conversas com universitários, que representam a maior parte dos consumidores da cantina, para compreender suas experiências e dificuldades durante o processo de compra.
+Foi realizada uma pesquisa inicial com o objetivo de compreender os principais desafios enfrentados pelos usuários da cantina do Centro de Convivência.
 
-### Problemas Identificados:
+## Métodos Utilizados
 
-Com a ausência de um menu acessível, alguns problemas podem ser identificados:
+* Observação do funcionamento da cantina.
+* Conversas informais com alunos da SATC.
+* Conversas com os proprietários do estabelecimento.
+* Análise das principais dúvidas apresentadas pelos clientes durante o atendimento.
 
-* **Aumento das filas:** pessoas que ainda não decidiram o que consumir acabam levando mais tempo para escolher, tornando o atendimento mais lento.
-* **Aglomeração em frente à cantina:** muitos alunos precisam se aproximar do balcão apenas para verificar quais produtos estão disponíveis.
-* **Falta de transparência nos preços:** os clientes frequentemente só descobrem o valor dos produtos no momento do pedido, o que pode gerar indecisão ou desistência da compra.
+## Problemas Identificados
 
-## 2. Identificação do Problema
+Durante a pesquisa foram observados os seguintes problemas:
 
-### Problemas Mapeados
+1. Dificuldade para consultar preços dos produtos.
+2. Falta de informação sobre a disponibilidade dos itens.
+3. Necessidade de deslocamento até a cantina para verificar opções disponíveis.
+4. Dúvidas frequentes durante o atendimento.
+5. Tempo gasto pelos funcionários respondendo perguntas repetitivas.
+6. Falta de acesso rápido ao cardápio do dia.
 
-### Justificativa da Escolha
+---
 
-## 3. Investigação do Problema
+# 3. Problemas Encontrados
 
-### Métodos Utilizados
+Após a etapa exploratória, os problemas foram organizados conforme sua frequência de ocorrência.
 
-### Matriz CSD
+| Problema                                                | Frequência |
+| ------------------------------------------------------- | ---------- |
+| Falta de acesso aos preços dos produtos                 | Alta       |
+| Falta de informação sobre disponibilidade               | Alta       |
+| Necessidade de ir até a cantina para consultar produtos | Alta       |
+| Dúvidas recorrentes durante o atendimento               | Média      |
+| Tempo gasto pelos funcionários com informações básicas  | Média      |
 
-### Entrevistas
+A análise demonstrou que os problemas mais frequentes estão relacionados à dificuldade de acesso às informações da cantina.
 
-### Questionários
+---
 
-### Benchmarking
+# 4. Problema Mais Recorrente
 
-### Análise de Comentários e Avaliações
+O problema mais recorrente identificado foi a ausência de um meio prático para consultar informações da cantina antes de chegar ao local.
 
-### Evidências da Pesquisa
+Os usuários não conseguem verificar:
 
-### Principais Insights
+* Quais produtos estão disponíveis;
+* Os preços atualizados;
+* Quais itens estão esgotados;
+* As opções oferecidas no dia.
 
-## 4. Síntese e Priorização
+Como consequência, muitos alunos precisam se deslocar até a cantina apenas para buscar informações, o que gera perda de tempo e aumenta a quantidade de dúvidas durante o atendimento.
 
-### Método de Priorização
+---
 
-### Resultado da Priorização
+# 5. Pesquisa Aprofundada
 
-### Problema Selecionado
+Após a identificação do problema mais recorrente, foi realizada uma investigação mais aprofundada com alunos da SATC e com os proprietários da cantina localizada no Centro de Convivência.
 
-## 5. Definição do Problema
+## Participantes
 
-### Declaração do Problema
+* Proprietários da cantina.
+* Alunos de diferentes cursos da SATC.
+* Usuários frequentes do estabelecimento.
 
-### Justificativa
+## Matriz CSD
 
-## 6. Ideação
+### Certezas
 
-### Brainstorming
+* Os alunos consultam frequentemente preços e disponibilidade dos produtos.
+* Alguns itens esgotam ao longo do dia.
+* Grande parte das dúvidas dos clientes está relacionada aos produtos disponíveis.
 
-### Benchmarking
+### Suposições
 
-### Ideias Geradas
+* Os alunos gostariam de ter acesso às informações da cantina antes de se deslocarem até o local.
+* O acesso rápido às informações reduziria dúvidas durante o atendimento.
+* A consulta prévia ajudaria os estudantes na tomada de decisão.
 
-### Critérios de Seleção
+### Dúvidas
 
-### Ideia Escolhida
+* Quais informações são consideradas mais importantes pelos usuários?
+* Com que frequência os estudantes consultariam essas informações?
+* Quais recursos seriam mais úteis para os proprietários do estabelecimento?
 
-## 7. Proposta de Solução Digital
+## Principais Relatos dos Proprietários
 
-### Descrição da Solução
+Durante as entrevistas, os proprietários relataram que:
 
-### Público-Alvo
+* Recebem perguntas frequentes sobre preços dos produtos.
+* Precisam informar constantemente quais itens estão disponíveis ou esgotados.
+* Parte do atendimento é consumida respondendo dúvidas simples dos clientes.
+* Não existe atualmente uma ferramenta para divulgar essas informações de forma rápida.
 
-### MVP
+## Principais Relatos dos Alunos
 
-### Funcionalidades Principais
+Os estudantes entrevistados relataram que:
 
-### Wireframes
+* Gostariam de consultar os preços antes de realizar uma compra.
+* Muitas vezes procuram produtos específicos e descobrem que estão esgotados somente ao chegar ao local.
+* Consideram importante ter acesso às opções disponíveis antes do intervalo.
+* Acreditam que informações mais acessíveis tornariam a experiência mais prática.
 
-### Protótipos
+## Principais Insights
 
-## 8. Próximos Passos
+A pesquisa demonstrou uma necessidade comum entre alunos e proprietários da cantina.
 
-### Plano de Evolução
+Os alunos desejam acesso rápido às informações sobre os produtos, enquanto os proprietários gostariam de reduzir a quantidade de dúvidas repetitivas durante o atendimento.
 
-### Hipóteses a Serem Validadas
+---
 
-### Melhorias Futuras
+# 6. Priorização dos Problemas
 
-## Equipe
+Para definir qual problema deveria receber maior atenção, foi utilizada a Matriz Impacto x Esforço.
 
-## Referências
+| Problema                                             | Impacto | Esforço |
+| ---------------------------------------------------- | ------- | ------- |
+| Falta de acesso às informações da cantina            | Alto    | Baixo   |
+| Dúvidas frequentes durante o atendimento             | Médio   | Baixo   |
+| Necessidade de deslocamento para consulta            | Alto    | Médio   |
+| Tempo gasto pelos funcionários respondendo perguntas | Médio   | Médio   |
+
+## Resultado da Priorização
+
+O problema considerado prioritário foi:
+
+**Falta de acesso rápido às informações da cantina, incluindo preços, produtos disponíveis e disponibilidade dos itens.**
+
+A escolha foi realizada devido ao alto impacto para os usuários e ao potencial de melhoria da experiência geral do serviço.
+
+---
+
+# 7. Problema Escolhido e Justificativa
+
+## Definição do Problema
+
+"Os usuários da cantina localizada no Centro de Convivência da SATC têm dificuldade em consultar produtos, preços e disponibilidade dos itens porque essas informações não estão disponíveis de forma acessível antes da visita ao estabelecimento, o que resulta em dúvidas frequentes, deslocamentos desnecessários e perda de tempo."
+
+## Justificativa
+
+A partir das pesquisas realizadas com os proprietários da cantina e com os alunos da SATC, foi identificado que a dificuldade de acesso às informações do estabelecimento é um problema recorrente.
+
+Esse problema afeta diretamente a experiência dos usuários, que precisam buscar as informações presencialmente, e também impacta os proprietários, que dedicam parte significativa do atendimento para responder perguntas repetitivas sobre preços e disponibilidade dos produtos.
+
+---
+
+# 8. Brainstorming e Seleção de Ideias
+
+Após a definição do problema, foi realizada uma sessão de brainstorming para levantar possíveis alternativas de solução.
+
+## Ideias Geradas
+
+* Cardápio digital acessível por celular.
+* Página web com atualização dos produtos.
+* QR Code para consulta rápida.
+* Painel eletrônico próximo à cantina.
+* Divulgação diária dos produtos nas redes sociais.
+* Sistema de atualização da disponibilidade dos produtos.
+* Canal digital para consulta de preços.
+
+## Critérios Utilizados para Seleção
+
+* Facilidade de uso.
+* Facilidade de manutenção.
+* Baixo custo de implementação.
+* Benefício para alunos e proprietários.
+* Potencial de melhorar a experiência dos usuários.
+
+## Ideias Mais Promissoras
+
+As alternativas consideradas mais promissoras foram:
+
+* Consulta digital dos produtos.
+* Exibição de preços atualizados.
+* Visualização da disponibilidade dos itens.
+* Acesso rápido por meio de QR Code.
+
+---
+
+# 9. Próximos Passos
+
+Para dar continuidade ao projeto, serão realizadas as seguintes etapas:
+
+## Validação das Hipóteses
+
+Hipótese 1:
+
+Os alunos consultariam as informações da cantina antes de se deslocarem até o local.
+
+Hipótese 2:
+
+O acesso prévio às informações reduziria a quantidade de dúvidas durante o atendimento.
+
+Hipótese 3:
+
+A disponibilidade dos produtos é uma das informações mais importantes para os usuários.
+
+## Desenvolvimento de Protótipos
+
+Criar protótipos de baixa e alta fidelidade para representar possíveis formas de disponibilização das informações da cantina.
+
+## Testes com Usuários
+
+Realizar testes com estudantes e proprietários para avaliar a utilidade, facilidade de uso e clareza das informações apresentadas.
+
+## Coleta de Feedback
+
+Registrar sugestões e melhorias apontadas pelos participantes para aperfeiçoar a proposta nas próximas etapas do projeto.
+
+---
+
+# Conclusão
+
+A pesquisa realizada com alunos da SATC e com os proprietários da cantina do Centro de Convivência permitiu identificar um problema recorrente relacionado ao acesso às informações sobre produtos, preços e disponibilidade.
+
+Os resultados demonstram que existe uma necessidade real de tornar essas informações mais acessíveis aos usuários, reduzindo dúvidas, deslocamentos desnecessários e tempo gasto durante o atendimento. As próximas etapas do projeto serão direcionadas à validação das hipóteses levantadas e à exploração de alternativas que possam melhorar a experiência dos usuários da cantina.
