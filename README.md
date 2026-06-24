@@ -160,11 +160,9 @@ Após a definição do problema, foi realizada uma sessão de brainstorming para
 
 * Cardápio digital acessível por celular.
 * Página web com atualização dos produtos.
-* QR Code para consulta rápida.
-* Painel eletrônico próximo à cantina.
-* Divulgação diária dos produtos nas redes sociais.
 * Sistema de atualização da disponibilidade dos produtos.
 * Canal digital para consulta de preços.
+* Reserva de comida para retirada no local.
 
 ## Critérios Utilizados para Seleção
 
@@ -181,7 +179,6 @@ As alternativas consideradas mais promissoras foram:
 * Consulta digital dos produtos.
 * Exibição de preços atualizados.
 * Visualização da disponibilidade dos itens.
-* Acesso rápido por meio de QR Code.
 
 ---
 
@@ -205,7 +202,7 @@ A disponibilidade dos produtos é uma das informações mais importantes para os
 
 ## Desenvolvimento de Protótipos
 
-Criar protótipos de baixa e alta fidelidade para representar possíveis formas de disponibilização das informações da cantina.
+Criar protótipos de alta fidelidade para representar possíveis formas de disponibilização das informações da cantina.
 
 ## Testes com Usuários
 
