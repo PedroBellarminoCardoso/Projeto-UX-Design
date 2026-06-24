@@ -182,7 +182,54 @@ As alternativas consideradas mais promissoras foram:
 
 ---
 
-# 9. Próximos Passos
+# 9. Proposta de Solução Digital
+
+A solução proposta consiste em um cardápio digital online que permite aos estudantes consultar os produtos disponíveis na cantina do Centro de Convivência de forma rápida e intuitiva.
+
+O sistema foi projetado para facilitar o acesso às informações mais procuradas pelos usuários, como preços, disponibilidade e categorias dos produtos.
+
+Funcionalidades
+Consulta de Produtos
+
+Os usuários podem visualizar todos os itens disponíveis na cantina organizados em categorias:
+
+Salgados
+Bebidas
+Sobremesas
+Busca de Produtos
+
+O sistema possui uma barra de pesquisa que permite localizar rapidamente um produto específico.
+
+Visualização de Preços
+
+Todos os produtos apresentam seus preços de forma clara e acessível, permitindo que os usuários consultem os valores antes de realizar a compra.
+
+Disponibilidade em Tempo Real
+
+Cada item possui um indicador visual informando sua situação atual:
+
+Disponível
+Esgotado
+Informações dos Produtos
+
+Cada produto apresenta:
+
+Nome
+Imagem
+Descrição
+Preço
+Status de disponibilidade
+Benefícios para os Usuários
+Consulta rápida dos produtos disponíveis.
+Visualização dos preços sem necessidade de ir até a cantina.
+Economia de tempo durante os intervalos.
+Melhor tomada de decisão na escolha dos produtos.
+
+A proposta foi desenvolvida com base nas necessidades identificadas durante as entrevistas com alunos e proprietários da cantina. O sistema busca solucionar o principal problema encontrado na pesquisa: a dificuldade de acesso às informações dos produtos antes da visita ao estabelecimento.
+
+Ao centralizar preços, descrições e disponibilidade em uma única plataforma digital, a solução melhora a experiência dos usuários e torna o atendimento mais eficiente para os responsáveis pela cantina.
+
+# 10. Próximos Passos
 
 Para dar continuidade ao projeto, serão realizadas as seguintes etapas:
 
