@@ -1,12 +1,10 @@
-# PROJETO FINAL DE UX DESIGN
-
-## Melhorando o Acesso às Informações da Cantina do Centro de Convivência da SATC
+# PROJETO FINAL
 
 ### 1. Introdução ao Tema
 
-O Centro de Convivência (CC) da SATC é um espaço amplamente utilizado por estudantes, professores e colaboradores durante os intervalos e horários livres. Entre os serviços oferecidos no local, destaca-se a cantina, responsável pelo fornecimento de alimentos e bebidas para a comunidade acadêmica.
+O Centro de Convivência (CC) da SATC é um espaço amplamente utilizado por estudantes, professores e colaboradores durante os intervalos e horários livres. Entre os serviços oferecidos no local, destaca-se as cantinas, responsável pelo fornecimento de alimentos e bebidas para a comunidade acadêmica.
 
-Atualmente, a cantina não possui uma forma digital de disponibilizar informações sobre seus produtos. Dessa forma, os usuários precisam se deslocar até o local para verificar preços, opções disponíveis e a existência de determinados itens no dia.
+Atualmente, a cantina escolhida não possui uma forma digital de disponibilizar informações sobre seus produtos. Dessa forma, os usuários precisam se deslocar até o local para verificar preços, opções disponíveis e a existência de determinados itens.
 
 Considerando a importância da praticidade e do acesso rápido à informação, este projeto busca compreender as dificuldades enfrentadas pelos usuários da cantina e identificar oportunidades de melhoria para a experiência oferecida.
 
@@ -14,11 +12,9 @@ Considerando a importância da praticidade e do acesso rápido à informação, 
 
 # 2. Pesquisa Exploratória
 
-Foi realizada uma pesquisa inicial com o objetivo de compreender os principais desafios enfrentados pelos usuários da cantina do Centro de Convivência.
-
+Foi realizada uma pesquisa inicial com o objetivo de compreender os principais desafios dos frenquentadores.
 ## Métodos Utilizados
 
-* Observação do funcionamento da cantina.
 * Conversas informais com alunos da SATC.
 * Conversas com os proprietários do estabelecimento.
 * Análise das principais dúvidas apresentadas pelos clientes durante o atendimento.
@@ -28,11 +24,9 @@ Foi realizada uma pesquisa inicial com o objetivo de compreender os principais d
 Durante a pesquisa foram observados os seguintes problemas:
 
 1. Dificuldade para consultar preços dos produtos.
-2. Falta de informação sobre a disponibilidade dos itens.
-3. Necessidade de deslocamento até a cantina para verificar opções disponíveis.
-4. Dúvidas frequentes durante o atendimento.
-5. Tempo gasto pelos funcionários respondendo perguntas repetitivas.
-6. Falta de acesso rápido ao cardápio do dia.
+2. Necessidade de deslocamento até a cantina para verificar opções disponíveis.
+3. Fila parada
+4. Ter que até o local para ver o que tem.
 
 ---
 
